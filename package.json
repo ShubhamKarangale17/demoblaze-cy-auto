@@ -1,0 +1,13 @@
+{
+  "name": "demo_blaze_cy",
+  "version": "1.0.0",
+  "description": "Cypress Page Object Model DemoBlaze Framework",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
