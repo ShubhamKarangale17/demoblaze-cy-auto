@@ -41,7 +41,7 @@ class LoginPage {
         this.clickLoginLink();
 
         // Add a small wait for the modal to be fully visible and animatable
-        cy.wait(500);
+        cy.wait(10000);
 
         this.fillUsername(username);
         this.fillPassword(password);
