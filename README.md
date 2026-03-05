@@ -1,6 +1,6 @@
-# DemoBlaze Cypress Automation Framework
+## DemoBlaze Cypress Automation Framework
 
-This is a clean, simple, and professional UI automation framework for testing [DemoBlaze](https://www.demoblaze.com) using **Cypress** and the **Page Object Model (POM)** design pattern. 
+This is a clean, simple, and professional UI automation framework for testing [DemoBlaze](https://www.demoblaze.com) using **Cypress** and the **Page Object Model (POM)** design Pattern. 
 
 It is designed to be beginner-friendly while still adhering to industry best practices.
 
